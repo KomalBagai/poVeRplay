@@ -1,8 +1,12 @@
-# TeamSudo - Safeline
+# TeamSudo - poVeR play
 This repository contains the project belonging to team 'Sudo' for Hack In The North 4.0.
 
-## Safety and Security Assurance Network
-The main motive of our system is to provide a safer environment for passengers travelling by cab services(specially women passengers) with the help of a decentralised system using Blockchain. The system contains a hardware module consisting of a camera, GPS and Microphone. This integrated system connects the cabs and the police station in case of any abnormal condition with the help of audio analysis and computer vision.
+## poVeR play
+A VR (Virtual Reality) based game play environment, solely using smartphones (or smart watches) and a VR Headset.
+The player will be playing a sport (supposedly cricket) while wearing a VR headset and holding a smartphone in the hands as a playing tool (supposedly a bat or a ball). The idea is to develop a virtual Play Station alternative wherein no additional hardware is required whatsoever, thereby reducing the cost of playing for about thousand times. Furthermore, the smartphones may connect to other smartphones joining the gaming network (via Wi-Fi) and users may play the same game simultaneously at different locations, performing different roles (batting at one location and bowling at another). This gaming experience is expected to bring a boom in gaming industry.
 
-A decentralized cab security system which includes a hardware module in the cabs to be put by the owner of the cab service in order to ensure high security of the passengers. The microphone attached to the hardware module is responsible for audio analysis and hence scream detection. As soon as a scream spectogram (high frequency, amplitude and pitch) is detected by the hardware module, a notification alongwith a snapshot of the particular instant is sent to the nearest police station arriving en route of the cab. The police can thereby analyze the image and make sure if any abnormal activity is happening or is about to happen.
+#### Tech Stack- 
+- VR (Virtual Reality)
+- Unity  
+- App Development
 
