@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary11">#ffc910</color>
+    <color name="colorPrimary">#10a7ff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorred">#c73838</color>
+    <color name="colorredmenu">#e4e4e4</color>
+    <color name="colorredlo">#f15761</color>
+    <color name="grey_100">#f5f5f5</color>
+    <color name="grey_300">#e0e0e9</color>
+    <color name="grey_500">#bdbdbd</color>
+    <color name="white">#fbfbfb</color>
+    <color name="skip">#ffffff</color>
+    <color name="input_background">#F2F1F1</color>
+    <color name="nav_header_titleText">#FFFFFF</color>
+</resources>

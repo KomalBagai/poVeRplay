@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/mycacc"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="My Account" />
+
+                <item
+                    android:id="@+id/mycomp"
+                    android:icon="@drawable/ic_verified_user_black_24dp"
+                    android:title="My Complaints" />
+
+                <item
+                    android:id="@+id/safetyplus"
+                    android:icon="@drawable/ic_swap_horiz_black_24dp"
+                    android:title="Enable Safety plus" />
+                <item
+                   android:id="@+id/Emergencycontacts"
+                   android:icon="@drawable/ic_contacts_black_24dp"
+                   android:title="Emergency Contacts" />
+
+
+    </group>
+
+    <item android:title="Test">
+        <menu>
+    <item
+        android:id="@+id/testmy"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="Fake Test" />
+    <item
+        android:id="@+id/blueh"
+        android:icon="@drawable/bt"
+        android:title="Beacons broadcast" />
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/settingg"
+                android:icon="@drawable/ic_settings_black1_24dp"
+                android:title="Settings" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About" />
+        </menu>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>

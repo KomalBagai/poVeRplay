@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "70164001135",
+    "firebase_url": "https://lifesaver-18f28.firebaseio.com",
+    "project_id": "lifesaver-18f28",
+    "storage_bucket": "lifesaver-18f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70164001135:android:b7c8c8ff386b8178",
+        "android_client_info": {
+          "package_name": "com.example.android.safeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70164001135-hv699ro9ap3qvh5udi0s8ttbr0ldr24q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.safeline",
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
+          }
+        },
+        {
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70164001135:android:e0b0fa911ce40030",
+        "android_client_info": {
+          "package_name": "com.jskgmail.lifesaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70164001135-143hnubjplur3uj1u3armi96amqf0jgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jskgmail.lifesaver",
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
+          }
+        },
+        {
+          "client_id": "70164001135-91t1ffffj8r3095b5gkagsud9hrqgsuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jskgmail.lifesaver",
+            "certificate_hash": "0c63ad9bd1ae609dc5c1a087108e52ce53995414"
+          }
+        },
+        {
+          "client_id": "70164001135-6np3sihkm42of9p1t704t15pcis3v72h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jskgmail.lifesaver",
+            "certificate_hash": "c8fdf466085255e10bfe21a78b5f6ad2a485245a"
+          }
+        },
+        {
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70164001135:android:eac46db71487cf8f",
+        "android_client_info": {
+          "package_name": "com.jskgmail.prakash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70164001135-f4tacnga3mg54ho1b18ctnkph716pfud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jskgmail.prakash",
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
+          }
+        },
+        {
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70164001135:android:2f41d9bcef8e72db",
+        "android_client_info": {
+          "package_name": "com.opengov.prakash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70164001135-pllbg1jnm84bqle8j7l9ei09ukq9c74e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opengov.prakash",
+            "certificate_hash": "4dd6f8c676ed528cf639a2785aec3fefd2c7c09f"
+          }
+        },
+        {
+          "client_id": "70164001135-ns181sgdi2sm1lqcak10gvp3f279smsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opengov.prakash",
+            "certificate_hash": "5e15aaec30fcd6b96e0f3166190e863d0efa5916"
+          }
+        },
+        {
+          "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4UUWIA9HW2CFMgr5T4MuMz5OTbvUC18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70164001135-tban8ti9spgboahdv35ppv6j3m30gp88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

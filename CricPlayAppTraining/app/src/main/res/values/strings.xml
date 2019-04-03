@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">SuperView</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="label_emailpassword">Email/Password Authentication</string>
+    <string name="desc_emailpassword">Use an email and password to authenticate with Firebase.</string>
+
+    <string name="label_phone_auth">Phone Number Authentication</string>
+    <string name="desc_phone_auth">Use a phone number to authenticate with Firebase.</string>
+
+    <string name="label_anonymous_auth">Anonymous Authentication</string>
+    <string name="desc_anonymous_auth">Sign in anonymously and then later upgrade to a full Firebase Auth user.</string>
+
+    <string name="label_custom_auth">Custom Authentication</string>
+    <string name="desc_custom_auth">Use a custom token signed by your own server to authenticate with Firebase.</string>
+
+    <string name="label_firebase_ui">FirebaseUI Auth</string>
+    <string name="desc_firebase_ui">Use the FirebaseUI-Android library to authenticate with Firebase.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="phone_title_text">Phone Number</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter Login</string>
+
+    <string name="firebaseui_status_fmt">Firebase User: %s</string>
+    <string name="firebaseui_title_text">FirebaseUI Auth</string>
+
+    <string name="id_fmt">User ID: %s</string>
+    <string name="email_fmt">Email: %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_uuid">UUID</string>
+    <string name="title_major_value">Major Value</string>
+    <string name="title_minor_value">Minor Value</string>
+    <string name="title_beacon_format">Beacon Format</string>
+    <string name="hint_uuid">94339309-bfe2-4807-b747-9aee23508620</string>
+    <string name="hint_major_value">8</string>
+    <string name="_hint_minor_value">2</string>
+    <string name="start_advertising">Start Advertising</string>
+    <string name="apply">Apply Changes</string>
+
+
+    <string name="text_1">If there’s a burn place it under cool (not cold) running water, submerge it in a bath and loosely bandage a first- or second-degree burn for protection. Do not put an ice pack on major burns. Ice can damage the skin and worsen the injury. Don’t pop blisters. Don’t apply an antibiotic or butter to burns as this can breed infection. First-degree burns produce redness while second-degree burns cause blisters and third-degree burns results broken skin. </string>
+    <string name="text_2">Sprains occur when the ligaments surrounding a joint are pulled beyond their normal range. Sprains are often accompanied by bruising and swelling. Alternately apply and remove ice every 20 minutes throughout the first day. Wrapping the joint with an elastic compression bandage and elevating the limb may also help. Stay off the injury for at least 24 hours. After that, apply heat to promote blood flow to the area. </string>
+    <string name="text_3">A nosebleed occurs when blood vessels inside the nose break. Because they’re delicate, this can happen easily. When this happens, lean slightly forward and pinch your nose just below the bridge, where the cartilage and the bone come together. Maintain the pressure for 5 to 15 minutes. Pressing an ice pack against the bridge can also help. Do not tilt your head back if your nose bleeds as you may swallow blood which can potentially go in lungs.</string>
+    <string name="text_4">True choking is rare but when a person is really choking, he can’t cough strongly, speak, or breathe, and his face may turn red or blue.  For a victim of age one or older have the person lean forward and, using the palm of your hand, strike his back between the shoulder blades five times. If that doesn’t work, stand behind the victim, place one fist above the belly button, cup the fist with your other hand, and push in and up toward the ribs five times. </string>
+    <string name="text_5">Potential household hazards include cleaning supplies, carbon monoxide and pesticides. Bites and stings can also be poisonous to some people. If a person is unconscious or having trouble breathing, call the doctor. Do not wait until symptoms appear to call for help. And don’t try to induce vomiting. The poison could cause additional damage when it comes back up. The victim shouldn’t eat or drink anything in case of suspected poisoning.
+</string>
+    <string name="text_6"> In case of an animal bite, stop the bleeding by applying direct pressure until it stops. Gently clean with soap and warm water. Rinse for several minutes after cleaning. Apply antibiotic cream to reduce risk of infection, and cover with a sterile bandage. Get medical help if the animal bite is more than a superficial scratch or if the animal was a wild or stray one, regardless of the severity of the injury.
+</string>
+    <string name="text_7">Ice the area on and off for the first 24-48 hours. Apply ice for about 15 minutes at a time, and always put something like a towel or wash cloth between the ice and your skin. Take a painkiller if there is pain. Visit your doctor if the bruise is accompanied with extreme pain, swelling or redness; if the person is taking a blood-thinning medication or if he /she cannot move a joint or may have a broken bone.
+</string>
+    <string name="text_8">During diarrhea its essential to treat dehydration. Give an adult plenty of clear fluid, like fruit juices, soda, sports drinks and clear broth. Avoid milk or milk-based products and caffeine while you have diarrhea and for 3 to 5 days after you get better. Milk can make diarrhea worse. Give a child or infant frequent sips of a rehydration solution. Make sure the person drinks more fluids than they are losing through diarrhea.</string>
+    <string name="text_9">If there is chemical exposure, donot rub your eyes. Immediately wash out the eye with lots of water and get medical help while you are doing this. Do not bandage the eye. If there has been a blow to the eye apply a cold compress, but donot put pressure on the eye. If there is any bruising, bleeding, change in vision, or if it hurts when the eye moves, see a doctor right away.</string>
+    <string name="title_1"> A Burn
+    </string>
+    <string name="title_2"> A Sprain
+    </string>
+    <string name="title_3"> Bleeding nose
+    </string>
+    <string name="title_4"> Choking
+    </string>
+    <string name="title_5"> Poisoning
+    </string>
+    <string name="title_6"> Animal Bites
+    </string>
+    <string name="title_7"> Bruises
+    </string>
+    <string name="title_8"> Diarrhea
+    </string>
+    <string name="title_9"> Eye Injury
+    </string>
+
+    <string name="text_inside_circle_button_text_normal">Text Inside Circle Button(Normal)</string>
+    <string name="text_inside_circle_button_text_highlighted">Text Inside Circle Button(Highlighted)</string>
+    <string name="text_inside_circle_button_text_unable">Text Inside Circle Button(Unable)</string>
+
+    <string name="text_outside_circle_button_text_normal">Text Outside Circle Button(Normal)</string>
+    <string name="text_outside_circle_button_text_highlighted">Text Outside Circle Button(Highlighted)</string>
+    <string name="text_outside_circle_button_text_unable">Text Outside Circle Button(Unable)</string>
+    <string name="publickey">Public Key</string>
+    <string name="privatekey">Private Key</string>
+    <string name="turnoff">Turn off</string>
+
+</resources>
